@@ -1,4 +1,4 @@
-import Starter from './tutorial/01-useState-error-example';
+import Starter from './tutorial/useState/02-useState-basics';
 
 function App() {
 	return (
