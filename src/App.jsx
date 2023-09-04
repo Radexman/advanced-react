@@ -1,4 +1,4 @@
-import Starter from './tutorial/useEffect/02-multiple-effects';
+import Starter from './tutorial/useEffect/03-fetch-data';
 
 function App() {
 	return (
