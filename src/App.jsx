@@ -1,4 +1,4 @@
-import Starter from './tutorial/useState/05-useState-gotcha';
+import Starter from './tutorial/useEffect/02-multiple-effects';
 
 function App() {
 	return (
