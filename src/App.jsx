@@ -1,4 +1,4 @@
-import Starter from './tutorial/useState/02-useState-basics';
+import Starter from './tutorial/useState/03-useState-array';
 
 function App() {
 	return (

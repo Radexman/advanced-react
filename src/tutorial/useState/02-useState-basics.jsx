@@ -10,10 +10,15 @@ const UseStateBasics = () => {
 	return (
 		<div>
 			<h4>You clicked {count} times</h4>
-			<button type='button' className='btn' onClick={handleClick}>
+			<button
+				type='button'
+				className='btn'
+				onClick={handleClick}
+			>
 				Increment
 			</button>
 		</div>
 	);
 };
+
 export default UseStateBasics;
