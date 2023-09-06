@@ -13,6 +13,13 @@ const FetchData = () => {
 	const fetchUser = async () => {
 		try {
 			const res = await fetch(url);
+
+			if (!res.ok) {
+				setIsError(true);
+				setIsLoading(false);
+				return;
+			}
+
 			const user = await res.json();
 			setUser(user);
 		} catch (error) {
