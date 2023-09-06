@@ -1,4 +1,4 @@
-import Starter from './tutorial/Conditional Rendering/03-hooks-rules';
+import Starter from './tutorial/Conditional Rendering/4-short-circuit-overwiev';
 
 function App() {
 	return (
