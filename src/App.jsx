@@ -1,4 +1,4 @@
-import Starter from './tutorial/Conditional Rendering/02-multiple-returns-fetch-data';
+import Starter from './tutorial/Conditional Rendering/03-hooks-rules';
 
 function App() {
 	return (
