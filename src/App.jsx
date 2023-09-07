@@ -1,4 +1,4 @@
-import Starter from './tutorial/Conditional Rendering/4-short-circuit-overwiev';
+import Starter from './tutorial/Conditional Rendering/05-short-circuit-examples';
 
 function App() {
 	return (
