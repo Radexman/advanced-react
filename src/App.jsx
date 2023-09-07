@@ -1,4 +1,4 @@
-import Starter from './tutorial/Conditional Rendering/05-short-circuit-examples';
+import Starter from './tutorial/Conditional Rendering/06-toggle-challange';
 
 function App() {
 	return (
