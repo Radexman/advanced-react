@@ -1,9 +1,15 @@
-import Starter from './tutorial/useEffect/04-cleanup-function';
+import ProgressCard from './ProgressCard';
+
+const data = {
+	title: 'Programming',
+	bgcolor: '#00695c',
+	completed: 64,
+};
 
 function App() {
 	return (
 		<div className='container'>
-			<Starter />
+			<ProgressCard data={data} />
 		</div>
 	);
 }
